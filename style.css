@@ -89,7 +89,7 @@ main {
   text-align: center;
   background: #333;
   color: #fff;
-}
+}*/
 
 #header h2 {
   border-left: dotted 1px #fff;
@@ -99,6 +99,7 @@ main {
   padding-left: 1rem;
 }
 
+/*
 .caption {
   padding: 0.8rem;
   text-align: center;
@@ -139,4 +140,4 @@ footer h3 {
   .btn {
     padding: 1rem 3rem;
   }
-} */
+}
